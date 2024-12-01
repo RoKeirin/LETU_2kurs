@@ -10,7 +10,6 @@ for i in range(j):
     for ii in range (2):
         p = (-1)**ii
         s = i%2
-
         pp=i+ii
         j_x = j + p*pp
 
