@@ -1,7 +1,6 @@
 import requests
 import webbrowser
 
-
 class WikipediaSearcher:
     def __init__(self):
         self.base_url = "https://ru.wikipedia.org/w/api.php"
